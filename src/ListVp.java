@@ -26,7 +26,7 @@ public class ListVp {
             System.out.print("moi ban chon: ");
              n = scanner.nextInt();
             if (n==1){
-                for (  int a =1;a<=2;a++){
+                for (  int a =1;a<=5;a++){
 
                     System.out.println("nha san pham thu "+a);
                     VatPham vatPham = new VatPham();
